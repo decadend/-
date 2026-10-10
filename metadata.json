@@ -1,0 +1,6 @@
+{
+  "name": "OrbitalLink",
+  "description": "Interactive satellite tracking visualization. Drag a satellite along the equator and position a ground dish to see real-time antenna alignment and line-of-sight locking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
